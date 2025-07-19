@@ -9,9 +9,9 @@
 - Explore the intersection of connectivity, health tech & AI innovation.  
  
 ### 🧰 Tools & Tech
-- **Languages:** Python | SQL | NoSQL (MongoDB)  
-- **AI & ML:** Scikit-learn | TensorFlow | Keras | Hugging Face  
-- **Cloud Platforms:** Azure  
+- **Languages:** Python | SQL | NoSQL (MongoDB) | Spark
+- **AI:** Scikit-learn | TensorFlow | Keras | Hugging Face  
+- **Cloud Platforms:** Microsoft Azure  
 - **Visualization:** Tableau | Qlik | Matplotlib | Seaborn  
 - **Other:** Git | Jupyter | VS Code
 
