@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sabrina
+## 🙋‍♀️ Hi, I'm Sabrina!
 
 📡 **Telecommunications Engineer** | **Data & AI Scientist**  
 🎓 MSc in Big Data, Data Science & Artificial Intelligence | Msc in Telecommunications Engineering
